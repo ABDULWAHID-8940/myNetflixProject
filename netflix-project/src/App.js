@@ -1,11 +1,10 @@
-
+import Home from "./pages/Home/Home";
 
 
 function App() {
   return (
     <div className="App">
-       <h1>Hello</h1>
-      <h1>I am Abdulwahid</h1>
+       <Home/>
     </div>
   );
 }
