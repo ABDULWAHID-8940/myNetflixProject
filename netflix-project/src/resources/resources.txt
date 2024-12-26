@@ -1,0 +1,1 @@
+my  tmdb api key=57372979163f48bf1d058d65e7895afb

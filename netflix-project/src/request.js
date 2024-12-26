@@ -1,4 +1,4 @@
-const API_KEY = process.env.REACT_APP_API_KEY; // Corrected: uppercase _
+const API_KEY = process.env.REACT_APP_API_kEY; // Corrected: uppercase _
 
 // API requests
 const request = {
@@ -15,4 +15,5 @@ const request = {
 
 export default request;
 
-https://api.themoviedb.org/3/discover/movie?api_key=7e60002670381f8d5f2a3b871c622930&with_genres=28
+// https://api.themoviedb.org/3/discover/movie?api_key=7e60002670381f8d5f2a3b871c622930&with_genres=28
+// https://image.tmdb.org/t/p/w500${movie}?.backdrop_path
